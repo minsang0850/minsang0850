@@ -2,9 +2,8 @@
  I'm studying Backend development.
  Techs that I've used at least once
 </div> 
-- <a href="https://github.com/minsang0850"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
- <div align=center> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
-		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
+<br>
+ <div align=center> 
 		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 		<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -18,18 +17,10 @@
 		<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-		</div>
-		<br>
-		<div align=center> 👀 I’m interested in <em> Web Service </em> and ... </div>
-		<div align=center> 
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/>
 		<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-		</div>
-		<div align=center> 
-		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-		<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 		</div>
  Java, C++, Javascript, C, Spring, ReactNative, Git, Notion
 - 📫 How to reach me ...
