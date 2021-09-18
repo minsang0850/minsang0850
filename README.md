@@ -21,7 +21,7 @@
 		</div>
 <br>
 <h4>
-	My Graduation Project : https://github.com/noobokmizz/NowOrEverUI
+	My Graduation Project : https://github.com/noobokmizz/NowOrEverUI <br>
 	my blog : https://mingsang.tistory.com/
 </h4>
 
