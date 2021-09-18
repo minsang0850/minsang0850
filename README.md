@@ -1,7 +1,9 @@
+ <h2>
  <div align=center>👋 Hi, I’m park minsang <br>
  I'm studying Backend development.	<br>
  Techs that I've used at least once <br>
-</div> 
+</div>
+</h2>
 <br>
  <div align=center> 
 		<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
