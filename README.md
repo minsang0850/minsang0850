@@ -1,5 +1,7 @@
 - 👋 Hi, I’m park minsang
 - 👀 I’m interested in backend develop
+
+- I
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
