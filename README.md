@@ -21,7 +21,7 @@
 		</div>
 <br>
 <h4>My Graduation Project : https://github.com/noobokmizz/NowOrEverUI</h4>
-<div align=center> my blog : https://mingsang.tistory.com/ </div>
+<my blog : https://mingsang.tistory.com/
 
 <!---
 minsang0850/minsang0850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
