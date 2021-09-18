@@ -18,9 +18,8 @@
 		<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 		</div>
- Java, C++, Javascript, C, Spring, ReactNative, Git, Notion
-- 📫 How to reach me ...
-- my blog : https://mingsang.tistory.com/
+<br>
+ my blog : https://mingsang.tistory.com/
 
 <!---
 minsang0850/minsang0850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
