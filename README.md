@@ -20,7 +20,7 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 		</div>
 <br>
- my blog : https://mingsang.tistory.com/
+<div align=center> my blog : https://mingsang.tistory.com/ </div>
 
 <!---
 minsang0850/minsang0850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
