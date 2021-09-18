@@ -20,6 +20,7 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 		</div>
 <br>
+<h4>My Graduation Project : https://github.com/noobokmizz/NowOrEverUI</h4>
 <div align=center> my blog : https://mingsang.tistory.com/ </div>
 
 <!---
