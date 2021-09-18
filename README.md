@@ -1,9 +1,8 @@
  <h2>
  <div align=center>👋 Hi, I’m park minsang <br>
  I'm studying Backend development.
-</div>
+	</div>
 </h2>
-<br>
 <h3>Techs that I've used at least once</h3> <br>
  <div align=center> 
 		<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
