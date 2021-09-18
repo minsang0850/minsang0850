@@ -1,7 +1,7 @@
-- <div align=center>👋 Hi, I’m park minsang
-- I'm studying Backend development.
-</div>
-- Techs tha I've used at least once
+ <div align=center>👋 Hi, I’m park minsang
+ I'm studying Backend development.
+ Techs that I've used at least once
+</div> 
 - <a href="https://github.com/minsang0850"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
  <div align=center> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
