@@ -1,9 +1,8 @@
 - 👋 Hi, I’m park minsang
-- 👀 I’m interested in backend develop
-
-- I
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on ...
+- I'm studying Backend development.
+- Techs tha I've used at least once
+- <a href="https://github.com/minsang0850">target="_blank"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
+ Java, C++, Javascript, C, Spring, ReactNative, Git, Notion
 - 📫 How to reach me ...
 - my blog : https://mingsang.tistory.com/
 
