@@ -1,6 +1,6 @@
- <div align=center>👋 Hi, I’m park minsang
- I'm studying Backend development.
- Techs that I've used at least once
+ <div align=center>👋 Hi, I’m park minsang <br>
+ I'm studying Backend development.	<br>
+ Techs that I've used at least once <br>
 </div> 
 <br>
  <div align=center> 
