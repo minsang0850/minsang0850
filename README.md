@@ -1,5 +1,6 @@
  <h2>
- <div align=center>👋 Hi, I’m park minsang <br>
+ <div align=center>👋 
+	 Hi, I’m park minsang <br>
  I'm studying Backend development.
 	</div>
 </h2>
